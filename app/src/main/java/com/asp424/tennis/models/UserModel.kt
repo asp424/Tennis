@@ -1,0 +1,25 @@
+package com.asp424.tennis.models
+
+data class UserModel(
+    val id: String = "",
+    val key: String = "",
+    var name: String = "",
+    var patronymic: String = "",
+    var secondName: String = "",
+    var timeRegistrationStamp: Any = "",
+    var phone: String = "",
+    var phone_of_parent: String = "",
+    var city_of_training: String = "",
+    var name_child: String = "",
+    var secondName_child: String = "",
+    var years_old_child: String = "",
+    var token: String = "",
+    var color: Int = 0,
+    var name_group: String = "",
+    var time: String = "",
+    var mark: String = "",
+    var client: String = "",
+    var years: String = "",
+    val e_mail: String = "",
+    val school: String = "",
+)

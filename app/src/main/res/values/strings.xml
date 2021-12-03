@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Tennis</string>
+    <string name="number">+7xxxxxxxxxx</string>
+    <string name="not">ass</string>
+    <string name="null_string">null</string>
+
+
+    //Messages
+    <string name="code_message">Вам было отправлено sms сообщение с кодом. Если код не вставится в поле автоматически, то введите его вручную</string>
+    <string name="reg_message">Номер телефона должен начинаться с +7 и не должен иметь пробелов или других символов </string>
+
+
+    //TopBar
+    <string name="enter_you_data">Введите данные</string>
+    <string name="room">Личный кабинет</string>
+    <string name="change_profile">Выберите профиль</string>
+    <string name="enter_code">Введите код</string>
+    <string name="enter_phone">Введите номер телефона</string>
+
+    //Trainer
+    <string name="name">Имя</string>
+    <string name="second_name">Фамилия</string>
+    <string name="patronymic">Отчество</string>
+    <string name="work_place">Место работы</string>
+    <string name="e_mail">Email</string>
+    <string name="whatsapp">Номер в WhatsApp</string>
+    //User
+    <string name="city">Город, в котором ребёнок будет заниматься</string>
+    <string name="plan">Выберите план занятий</string>
+    <string name="plan1">3 занятия по одному часу</string>
+    <string name="plan2">2 занятия по одному часу</string>
+    <string name="plan3">2 занятия по полтора часа</string>
+
+    // Menu
+    <string name="exit_message">Выйти из аккаунта</string>
+    //ContentDescription
+    <string name="content_desc">content description</string>
+    //Buttons
+    <string name="trainer">Тренер</string>
+    <string name="user">Детская школа тенниса</string>
+    <string name="userBig">Школа тенниса</string>
+    //MainNavigate
+    <string name="profile_nav">Выбор профиля</string>
+    <string name="admin_nav">Руководитель</string>
+    <string name="trainer_data_nav">Ввод данных тренера</string>
+    <string name="user_data_nav">Ввод данных клиента</string>
+    <string name="enter_phone_nav">Ввод номера</string>
+    <string name="enter_code_nav">Ввод кода</string>
+//Toasts
+    <string name="err_message">Заполните правильно все поля</string>
+    <string name="err_message1">Неверный код</string>
+    <string name="err_message2">Неверный формат номера</string>
+    <string name="err_message3">Введите номер телефона</string>
+    <string name="city1">Фрязино</string>
+    <string name="city2">Щёлково</string>
+    <string name="city3">Ивантеевка</string>
+    <string name="city4">Балашиха</string>
+</resources>
